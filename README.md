@@ -1,2 +1,6 @@
 # regresion_lineal_simple
-.
+#La regresión lineal es un modelo matemático que describe la relación entre varias variables. Los modelos de regresión lineal son un procedimiento estadístico que ayuda a predecir el futuro. Se utiliza en los campos científicos y en los negocios, y en las últimas décadas se ha utilizado en el aprendizaje automático.
+La tarea de la regresión en el aprendizaje automático consiste en predecir un parámetro (Y) a partir de un parámetro conocido X.
+Los modelos de regresión lineal son muy populares en diversos campos de investigación gracias a su rapidez y facilidad de interpretación.
+Debido a su capacidad para transformar datos, pueden utilizarse para simular una amplia gama de relaciones, y debido a su forma, que es más simple que la de las redes neuronales, sus parámetros estadísticos se analizan y comparan con facilidad, lo que permite que se les extraiga información valiosa.
+La regresión lineal no sólo se utiliza con fines de predicción: también ha demostrado su eficacia para describir sistemas. Si quieres modelar los valores de una variable numérica, tendrás una lista relativamente corta de variables independientes y, como esperas que el modelo sea comprensible, es probable que elijas la regresión lineal como herramienta de modelización.
